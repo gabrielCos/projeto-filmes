@@ -1,0 +1,1 @@
+Praticing fetch API with GET and POST methods
